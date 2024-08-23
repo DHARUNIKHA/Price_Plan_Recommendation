@@ -13,10 +13,6 @@ The Price Plan Recommendation System is a machine learning-based application des
 
 ## Appendix
 
-- Here's the revised version of the text, formatted and structured for inclusion in a README file on GitHub:
-
----
-
 ## Data Processing
 
 - *Normalization*: A preprocessing step used to standardize features to ensure consistency and improve model performance.
